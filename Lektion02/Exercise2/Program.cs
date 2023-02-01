@@ -13,10 +13,8 @@ namespace Exercise2
 
         static void CalculateAge(DateTime inputAge, out int age)
         {
-            int currentYear = DateTime.Now.Year;
-            age = currentYear - inputAge.Year;
-
-            if(DateTime.Now.Month < inputAge.Month && DateTime.Now.Day < inputAge.Day) age--;
+            TimeSpan span = DateTime.Now - inputAge;
+            age = (int)span.TotalDays / 365;
         }
     }
 }
