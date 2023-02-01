@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\terez\\source\\repos\\DMU_NET\\Lektion02\\Lektion02\\Exercise1.csproj",
-      "projectName": "Exercise1",
-      "projectPath": "C:\\Users\\terez\\source\\repos\\DMU_NET\\Lektion02\\Lektion02\\Exercise1.csproj",
+      "projectUniqueName": "C:\\Users\\terez\\source\\repos\\DMU_NET\\Lektion02\\Exercise2\\Exercise2.csproj",
+      "projectName": "Exercise2",
+      "projectPath": "C:\\Users\\terez\\source\\repos\\DMU_NET\\Lektion02\\Exercise2\\Exercise2.csproj",
       "packagesPath": "C:\\Users\\terez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\terez\\source\\repos\\DMU_NET\\Lektion02\\Lektion02\\obj\\",
+      "outputPath": "C:\\Users\\terez\\source\\repos\\DMU_NET\\Lektion02\\Exercise2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\terez\\AppData\\Roaming\\NuGet\\NuGet.Config",
