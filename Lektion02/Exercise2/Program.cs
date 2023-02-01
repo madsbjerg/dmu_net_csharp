@@ -15,8 +15,8 @@ namespace Exercise2
         {
             int currentYear = DateTime.Now.Year;
             age = currentYear - inputAge.Year;
-            if(DateTime.Now.Month < inputAge.Month && DateTime.Now.Day < inputAge.Day)
-                age--;
+
+            if(DateTime.Now.Month < inputAge.Month && DateTime.Now.Day < inputAge.Day) age--;
         }
     }
 }
