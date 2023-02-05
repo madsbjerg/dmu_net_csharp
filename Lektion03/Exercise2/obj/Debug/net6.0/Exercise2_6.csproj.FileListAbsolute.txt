@@ -1,0 +1,15 @@
+C:\Users\terez\source\repos\DMU_NET\Lektion03\Exercise2\obj\Debug\net6.0\Exercise2_6.csproj.AssemblyReference.cache
+C:\Users\terez\source\repos\DMU_NET\Lektion03\Exercise2\obj\Debug\net6.0\Exercise2_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terez\source\repos\DMU_NET\Lektion03\Exercise2\obj\Debug\net6.0\Exercise2_6.AssemblyInfoInputs.cache
+C:\Users\terez\source\repos\DMU_NET\Lektion03\Exercise2\obj\Debug\net6.0\Exercise2_6.AssemblyInfo.cs
+C:\Users\terez\source\repos\DMU_NET\Lektion03\Exercise2\obj\Debug\net6.0\Exercise2_6.csproj.CoreCompileInputs.cache
+C:\Users\terez\source\repos\DMU_NET\Lektion03\Exercise2\bin\Debug\net6.0\Exercise2_6.exe
+C:\Users\terez\source\repos\DMU_NET\Lektion03\Exercise2\bin\Debug\net6.0\Exercise2_6.deps.json
+C:\Users\terez\source\repos\DMU_NET\Lektion03\Exercise2\bin\Debug\net6.0\Exercise2_6.runtimeconfig.json
+C:\Users\terez\source\repos\DMU_NET\Lektion03\Exercise2\bin\Debug\net6.0\Exercise2_6.dll
+C:\Users\terez\source\repos\DMU_NET\Lektion03\Exercise2\bin\Debug\net6.0\Exercise2_6.pdb
+C:\Users\terez\source\repos\DMU_NET\Lektion03\Exercise2\obj\Debug\net6.0\Exercise2_6.dll
+C:\Users\terez\source\repos\DMU_NET\Lektion03\Exercise2\obj\Debug\net6.0\refint\Exercise2_6.dll
+C:\Users\terez\source\repos\DMU_NET\Lektion03\Exercise2\obj\Debug\net6.0\Exercise2_6.pdb
+C:\Users\terez\source\repos\DMU_NET\Lektion03\Exercise2\obj\Debug\net6.0\Exercise2_6.genruntimeconfig.cache
+C:\Users\terez\source\repos\DMU_NET\Lektion03\Exercise2\obj\Debug\net6.0\ref\Exercise2_6.dll

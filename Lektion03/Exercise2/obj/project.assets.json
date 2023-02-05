@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\terez\\source\\repos\\DMU_NET\\Lektion03\\Exercise2\\Exercise2.csproj",
-      "projectName": "Exercise2",
-      "projectPath": "C:\\Users\\terez\\source\\repos\\DMU_NET\\Lektion03\\Exercise2\\Exercise2.csproj",
+      "projectUniqueName": "C:\\Users\\terez\\source\\repos\\DMU_NET\\Lektion03\\Exercise2\\Exercise2_6.csproj",
+      "projectName": "Exercise2_6",
+      "projectPath": "C:\\Users\\terez\\source\\repos\\DMU_NET\\Lektion03\\Exercise2\\Exercise2_6.csproj",
       "packagesPath": "C:\\Users\\terez\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\terez\\source\\repos\\DMU_NET\\Lektion03\\Exercise2\\obj\\",
       "projectStyle": "PackageReference",
