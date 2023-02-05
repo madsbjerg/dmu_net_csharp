@@ -63,9 +63,7 @@ namespace Exercise1
                 arr[0] = newVal;
                 int[] temp_arr = FibArray(current, newVal, n - 1);
                 for (int i = 0; i < temp_arr.Length; i++)
-                {
                     arr[i + 1] = temp_arr[i];
-                }
             }
             return arr;
         }
