@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Exercise2_6
 {
-    internal class Værkfører :Mekaniker
+    internal class Værkfører : Mekaniker
     {
         public int _udnaevnelse;
         public double _tillaeg;
@@ -21,7 +21,7 @@ namespace Exercise2_6
 
         public override string ToString()
         {
-            return base.ToString() + $"Udnævnelses år: {_udnaevnelse}";
+            return base.ToString() + $"\nUdnævnelses år: {_udnaevnelse}";
         }
         public int Udnaevnelse { get { return _udnaevnelse;} set { _udnaevnelse = value; } }
         public double Tillaeg { get { return _tillaeg; } set { _tillaeg = value; } }
