@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Exercise2_6
 {
-    internal abstract class Medarbejder
+    internal abstract class Medarbejder : IHarAdresse
     {
         private CprNr _cpr;
         private string _navn;

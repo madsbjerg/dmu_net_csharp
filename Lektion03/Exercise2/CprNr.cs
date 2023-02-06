@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -22,5 +23,15 @@ namespace Exercise2_6
             return BirthDate + SequenceNumber;
         }
 
+        public override bool Equals(object? obj)
+        {
+            if (((CprNr)obj).GetHashCode() == this.GetHashCode()) return true;
+            else return false;
+        }
+
+        //public override int GetHashCode()
+        //{
+        //    return BirthDate ^ SequenceNumber;
+        //}
     }
 }
