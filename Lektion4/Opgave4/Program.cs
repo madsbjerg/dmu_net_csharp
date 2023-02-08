@@ -9,15 +9,15 @@
             int numbers = 13;
 
             CardGame game = new CardGame();
-            for(int i = 0; i < suits; i++)
-            {
-                for(int j = 0; j < numbers; j++)
-                {
+
+            // Create cards by looping through amount of suits and numbers
+            for (int i = 0; i < suits; i++)
+                for (int j = 0; j < numbers; j++)
                     game.AddCard((Card.Suit)i, (Card.Number)j);
-                }
-            }
+
             Console.WriteLine("Cards created.");
 
+            // Filter using different delegates
             Console.WriteLine("\nClubs: ");
             List<Card> clubs = game.FilterGame(FilterByClubs);
             foreach(Card card in clubs)
@@ -35,6 +35,7 @@
 
         static public bool FilterByPicture(Card card)
         {
+            // numbers 0..9 are Ace..Ten everything higher is a picture card
             return (int)card.number > 9;
         }
 
