@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -26,17 +27,26 @@ namespace Opgave6
 
         public class ByAgeSorter : IComparer<Person>
         {
-
+            public int Compare(Person x, Person y)
+            {
+                return x.Age.CompareTo(y.Age);
+            }
         }
 
         public class ByNameSorter : IComparer<Person>
         {
-
+            public int Compare(Person x, Person y)
+            {
+                return x.Name.CompareTo(y.Name);
+            }
         }
 
         public class ByWeightSorter : IComparer<Person>
         {
-
+            public int Compare(Person x, Person y)
+            {
+                return x.Weight.CompareTo(y.Weight);
+            }
         }
     }
 }
