@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opgave1", "Opgave1\Opgave1.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opgave2", "Opgave2\Opgave2.csproj", "{969C6BF7-5A96-4952-ABF3-FCB1CE217B55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave3", "Opgave3\Opgave3.csproj", "{6F3B1E4B-9899-4927-9E04-2095403F0F81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opgave3", "Opgave3\Opgave3.csproj", "{6F3B1E4B-9899-4927-9E04-2095403F0F81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave4", "Opgave4\Opgave4.csproj", "{4787D857-2A51-47D9-B574-7E737415074D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opgave5", "Opgave4\Opgave5.csproj", "{4787D857-2A51-47D9-B574-7E737415074D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,15 @@
+C:\Users\terez\source\repos\DMU_NET\Lektion4\Opgave4\bin\Debug\net6.0\Opgave5.exe
+C:\Users\terez\source\repos\DMU_NET\Lektion4\Opgave4\bin\Debug\net6.0\Opgave5.deps.json
+C:\Users\terez\source\repos\DMU_NET\Lektion4\Opgave4\bin\Debug\net6.0\Opgave5.runtimeconfig.json
+C:\Users\terez\source\repos\DMU_NET\Lektion4\Opgave4\bin\Debug\net6.0\Opgave5.dll
+C:\Users\terez\source\repos\DMU_NET\Lektion4\Opgave4\bin\Debug\net6.0\Opgave5.pdb
+C:\Users\terez\source\repos\DMU_NET\Lektion4\Opgave4\obj\Debug\net6.0\Opgave5.csproj.AssemblyReference.cache
+C:\Users\terez\source\repos\DMU_NET\Lektion4\Opgave4\obj\Debug\net6.0\Opgave5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terez\source\repos\DMU_NET\Lektion4\Opgave4\obj\Debug\net6.0\Opgave5.AssemblyInfoInputs.cache
+C:\Users\terez\source\repos\DMU_NET\Lektion4\Opgave4\obj\Debug\net6.0\Opgave5.AssemblyInfo.cs
+C:\Users\terez\source\repos\DMU_NET\Lektion4\Opgave4\obj\Debug\net6.0\Opgave5.csproj.CoreCompileInputs.cache
+C:\Users\terez\source\repos\DMU_NET\Lektion4\Opgave4\obj\Debug\net6.0\Opgave5.dll
+C:\Users\terez\source\repos\DMU_NET\Lektion4\Opgave4\obj\Debug\net6.0\refint\Opgave5.dll
+C:\Users\terez\source\repos\DMU_NET\Lektion4\Opgave4\obj\Debug\net6.0\Opgave5.pdb
+C:\Users\terez\source\repos\DMU_NET\Lektion4\Opgave4\obj\Debug\net6.0\Opgave5.genruntimeconfig.cache
+C:\Users\terez\source\repos\DMU_NET\Lektion4\Opgave4\obj\Debug\net6.0\ref\Opgave5.dll

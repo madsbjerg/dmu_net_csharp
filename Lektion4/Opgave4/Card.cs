@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Opgave4
+namespace Opgave5
 {
     internal class Card
     {

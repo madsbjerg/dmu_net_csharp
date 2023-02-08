@@ -4,9 +4,9 @@ using System.Linq;
 using System.Net.Security;
 using System.Text;
 using System.Threading.Tasks;
-using static Opgave4.Card;
+using static Opgave5.Card;
 
-namespace Opgave4
+namespace Opgave5
 {
     internal class CardGame
     {

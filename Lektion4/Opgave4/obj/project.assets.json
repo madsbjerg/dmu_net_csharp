@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\terez\\source\\repos\\DMU_NET\\Lektion4\\Opgave4\\Opgave4.csproj",
-      "projectName": "Opgave4",
-      "projectPath": "C:\\Users\\terez\\source\\repos\\DMU_NET\\Lektion4\\Opgave4\\Opgave4.csproj",
+      "projectUniqueName": "C:\\Users\\terez\\source\\repos\\DMU_NET\\Lektion4\\Opgave4\\Opgave5.csproj",
+      "projectName": "Opgave5",
+      "projectPath": "C:\\Users\\terez\\source\\repos\\DMU_NET\\Lektion4\\Opgave4\\Opgave5.csproj",
       "packagesPath": "C:\\Users\\terez\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\terez\\source\\repos\\DMU_NET\\Lektion4\\Opgave4\\obj\\",
       "projectStyle": "PackageReference",
