@@ -20,7 +20,7 @@
             int temp = integerList.FindLast(i => i > 15);
             Console.WriteLine(temp);
 
-            tmep = integerList.FindLastIndex(i => i > 15);
+            temp = integerList.FindLastIndex(i => i > 15);
             Console.WriteLine(temp);
         }
     }
