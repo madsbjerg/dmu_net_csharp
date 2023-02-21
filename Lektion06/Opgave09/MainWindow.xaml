@@ -1,0 +1,43 @@
+﻿<Window x:Class="Opgave09.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Opgave09"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="20"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="60"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        
+        <!-- TOP -->
+        <TextBox Name="InputLeft" Grid.Row="0" Grid.Column="0" Margin="10"></TextBox>
+        <TextBox Name="InputRight" Grid.Row="0" Grid.Column="2" Margin="10"></TextBox>
+        <Button Name="AddLeft" Grid.Row="1" Grid.Column="0" Margin="10" MaxWidth="50">Add</Button>
+        <Button Name="AddRight" Grid.Row="1" Grid.Column="2" Margin="10" MaxWidth="50">Add</Button>
+        
+        <!-- MIDDLE -->
+        <ListBox Name="ListLeft" Grid.Row="2" Grid.RowSpan="3" Grid.Column="0" Margin="10"></ListBox>
+        <ListBox Name="ListRight" Grid.Row="2" Grid.RowSpan="3" Grid.Column="2" Margin="10"></ListBox>
+        <Button Name="MoveToRight" Grid.Row="2" Grid.Column="1" Margin="10" MaxWidth="50" MaxHeight="25">==></Button>
+        <Button Name="MoveToLeft" Grid.Row="3" Grid.Column="1" Margin="10" MaxWidth="50" MaxHeight="25">&lt;==</Button>
+        
+        <!-- BOTTOM -->
+        <Button Name="ClearLeft" Grid.Row="5" Grid.Column="0" Margin="10" MaxWidth="50">Clear</Button>
+        <Button Name="ClearRight" Grid.Row="5" Grid.Column="2" Margin="10" MaxWidth="50">Clear</Button>
+        <StatusBar Name="StatusBar" Grid.Row="6" Grid.ColumnSpan="3"></StatusBar>
+    </Grid>
+</Window>
