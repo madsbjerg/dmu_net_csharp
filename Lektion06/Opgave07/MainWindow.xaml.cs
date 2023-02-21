@@ -23,6 +23,7 @@ namespace Opgave07
         public MainWindow()
         {
             InitializeComponent();
+
             Open.Click += MenuItem_Clicked;
             Save.Click += MenuItem_Clicked;
             New.Click += MenuItem_Clicked;
