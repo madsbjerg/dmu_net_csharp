@@ -1,0 +1,12 @@
+C:\Users\terez\source\repos\Lektion09\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\terez\source\repos\Lektion09\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\terez\source\repos\Lektion09\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\terez\source\repos\Lektion09\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\terez\source\repos\Lektion09\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terez\source\repos\Lektion09\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\terez\source\repos\Lektion09\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\terez\source\repos\Lektion09\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\terez\source\repos\Lektion09\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\terez\source\repos\Lektion09\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\terez\source\repos\Lektion09\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\terez\source\repos\Lektion09\DTO\obj\Debug\net6.0\ref\DTO.dll

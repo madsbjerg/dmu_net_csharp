@@ -1,0 +1,23 @@
+C:\Users\klbo\OneDrive - EFIF\DotNet\S23\Session 9\Eksempel\EmployeeApp\DTOCore\bin\Debug\net6.0\DTOCore.deps.json
+C:\Users\klbo\OneDrive - EFIF\DotNet\S23\Session 9\Eksempel\EmployeeApp\DTOCore\bin\Debug\net6.0\DTOCore.dll
+C:\Users\klbo\OneDrive - EFIF\DotNet\S23\Session 9\Eksempel\EmployeeApp\DTOCore\bin\Debug\net6.0\ref\DTOCore.dll
+C:\Users\klbo\OneDrive - EFIF\DotNet\S23\Session 9\Eksempel\EmployeeApp\DTOCore\bin\Debug\net6.0\DTOCore.pdb
+C:\Users\klbo\OneDrive - EFIF\DotNet\S23\Session 9\Eksempel\EmployeeApp\DTOCore\obj\Debug\net6.0\DTOCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klbo\OneDrive - EFIF\DotNet\S23\Session 9\Eksempel\EmployeeApp\DTOCore\obj\Debug\net6.0\DTOCore.AssemblyInfoInputs.cache
+C:\Users\klbo\OneDrive - EFIF\DotNet\S23\Session 9\Eksempel\EmployeeApp\DTOCore\obj\Debug\net6.0\DTOCore.AssemblyInfo.cs
+C:\Users\klbo\OneDrive - EFIF\DotNet\S23\Session 9\Eksempel\EmployeeApp\DTOCore\obj\Debug\net6.0\DTOCore.csproj.CoreCompileInputs.cache
+C:\Users\klbo\OneDrive - EFIF\DotNet\S23\Session 9\Eksempel\EmployeeApp\DTOCore\obj\Debug\net6.0\DTOCore.dll
+C:\Users\klbo\OneDrive - EFIF\DotNet\S23\Session 9\Eksempel\EmployeeApp\DTOCore\obj\Debug\net6.0\ref\DTOCore.dll
+C:\Users\klbo\OneDrive - EFIF\DotNet\S23\Session 9\Eksempel\EmployeeApp\DTOCore\obj\Debug\net6.0\DTOCore.pdb
+C:\Users\terez\source\repos\DMU_NET\Lektion09_EmployeeApp\DTOCore\bin\Debug\net6.0\DTOCore.deps.json
+C:\Users\terez\source\repos\DMU_NET\Lektion09_EmployeeApp\DTOCore\bin\Debug\net6.0\DTOCore.dll
+C:\Users\terez\source\repos\DMU_NET\Lektion09_EmployeeApp\DTOCore\bin\Debug\net6.0\DTOCore.pdb
+C:\Users\terez\source\repos\DMU_NET\Lektion09_EmployeeApp\DTOCore\obj\Debug\net6.0\DTOCore.csproj.AssemblyReference.cache
+C:\Users\terez\source\repos\DMU_NET\Lektion09_EmployeeApp\DTOCore\obj\Debug\net6.0\DTOCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terez\source\repos\DMU_NET\Lektion09_EmployeeApp\DTOCore\obj\Debug\net6.0\DTOCore.AssemblyInfoInputs.cache
+C:\Users\terez\source\repos\DMU_NET\Lektion09_EmployeeApp\DTOCore\obj\Debug\net6.0\DTOCore.AssemblyInfo.cs
+C:\Users\terez\source\repos\DMU_NET\Lektion09_EmployeeApp\DTOCore\obj\Debug\net6.0\DTOCore.csproj.CoreCompileInputs.cache
+C:\Users\terez\source\repos\DMU_NET\Lektion09_EmployeeApp\DTOCore\obj\Debug\net6.0\DTOCore.dll
+C:\Users\terez\source\repos\DMU_NET\Lektion09_EmployeeApp\DTOCore\obj\Debug\net6.0\refint\DTOCore.dll
+C:\Users\terez\source\repos\DMU_NET\Lektion09_EmployeeApp\DTOCore\obj\Debug\net6.0\DTOCore.pdb
+C:\Users\terez\source\repos\DMU_NET\Lektion09_EmployeeApp\DTOCore\obj\Debug\net6.0\ref\DTOCore.dll
