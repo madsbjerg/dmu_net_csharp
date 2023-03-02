@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\terez\\source\\repos\\Lektion09\\Lektion09\\ViewLayer.csproj",
+      "projectUniqueName": "C:\\Users\\terez\\source\\repos\\DMU_NET\\Lektion09\\Lektion09\\ViewLayer.csproj",
       "projectName": "ViewLayer",
-      "projectPath": "C:\\Users\\terez\\source\\repos\\Lektion09\\Lektion09\\ViewLayer.csproj",
+      "projectPath": "C:\\Users\\terez\\source\\repos\\DMU_NET\\Lektion09\\Lektion09\\ViewLayer.csproj",
       "packagesPath": "C:\\Users\\terez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\terez\\source\\repos\\Lektion09\\Lektion09\\obj\\",
+      "outputPath": "C:\\Users\\terez\\source\\repos\\DMU_NET\\Lektion09\\Lektion09\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\terez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\terez\\source\\repos\\Lektion09\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\terez\\source\\repos\\Lektion09\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\terez\\source\\repos\\DMU_NET\\Lektion09\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\terez\\source\\repos\\DMU_NET\\Lektion09\\BusinessLayer\\BusinessLayer.csproj"
             }
           }
         }

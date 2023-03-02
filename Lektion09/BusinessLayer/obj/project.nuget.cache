@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NmRZxL1thfdcthG4JHaMCL38hj/4w5b33SYS5A+TSvxO4tck4mWSrltQeRhBU40rB4Ej35GiGh8j4haf4jHx1Q==",
+  "dgSpecHash": "r9PJCbUVl44ndCaeUyhsSvuVpKyWO02ODN3uPKTfWuipNYgpCi+gJkr13gTS7vtIum1+VjUz3g0KRis4wjh4xQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\terez\\source\\repos\\Lektion09\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\terez\\source\\repos\\DMU_NET\\Lektion09\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\terez\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\terez\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

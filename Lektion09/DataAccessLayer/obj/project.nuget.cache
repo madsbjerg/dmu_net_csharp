@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rgAlLcOc5iONLXnn952JPEL1C2hQh0XfsoydTglI3e1yyqLK716iYjU3p70QWD+rZh/kI+pQLZyABWKC/tMEVA==",
+  "dgSpecHash": "0uJ414dF3pd5IOR1uHQtQucikciUNPqRMgmyRWS8PjS2SI98fwtU8l3+nl0rzv2ZzI4Hp7EZLtMoBS9tC6TEqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\terez\\source\\repos\\Lektion09\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\terez\\source\\repos\\DMU_NET\\Lektion09\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\terez\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\terez\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -3515,11 +3515,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\terez\\source\\repos\\Lektion09\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\terez\\source\\repos\\DMU_NET\\Lektion09\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "C:\\Users\\terez\\source\\repos\\Lektion09\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectPath": "C:\\Users\\terez\\source\\repos\\DMU_NET\\Lektion09\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\terez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\terez\\source\\repos\\Lektion09\\DataAccessLayer\\obj\\",
+      "outputPath": "C:\\Users\\terez\\source\\repos\\DMU_NET\\Lektion09\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\terez\\AppData\\Roaming\\NuGet\\NuGet.Config",

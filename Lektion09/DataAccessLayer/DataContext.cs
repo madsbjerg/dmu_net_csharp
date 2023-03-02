@@ -8,7 +8,8 @@ namespace DataAccessLayer
     {
         private static readonly DataContext instance = new DataContext();
 
-        public DbSet<Bil> Biler { get; set; }
+        public DbSet<Car> Cars { get; set; }
+        public DbSet<CarWheel> CarWheels { get; set; }
         public DataContext() 
         {
             this.Database.EnsureCreated();
@@ -21,16 +22,16 @@ namespace DataAccessLayer
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Bil>().HasData(new Bil[]
+            modelBuilder.Entity<Car>().HasData(new Car[]
             {
-                new Bil(
+                new Car(
                     id: -1, 
                     model: "Golf II GTI", 
                     type: "Hatchback", 
                     description: "In great condition! Still has 3 wheels.",
                     weight: "1500"
                 ),
-                new Bil(
+                new Car(
                     id: -2, 
                     model: "Ford Mustang", 
                     type: "Muscle", 
